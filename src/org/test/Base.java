@@ -12,6 +12,7 @@ public class Base {
 		 System.out.println("karthiga");
   Base b= new Base();
   b.name();
+  System.out.println("karthika new project");
 	}
 
 }
