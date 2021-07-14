@@ -14,7 +14,8 @@ public class Base {
   b.name();
   System.out.println("karthika new project");
   System.out.println("place is ariyalur");
-  
+   System.out.println("5+5");
+   System.out.println(" string hast lots of class");
 
 	}
 
