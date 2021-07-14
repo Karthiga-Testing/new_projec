@@ -25,6 +25,7 @@ public class Sample {
 		
 		System.out.println("karthika");
 		System.out.println(" changerd");
+		System.out.println(" merghed codes from tester2");
 	}
 
 }
