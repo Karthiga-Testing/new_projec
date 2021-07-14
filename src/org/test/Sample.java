@@ -23,7 +23,8 @@ public class Sample {
 		 System.out.println("uc"+uc);
 		 System.out.println("lc"+lc);
 		
-		
+		System.out.println("karthika");
+		System.out.println(" changerd");
 	}
 
 }
